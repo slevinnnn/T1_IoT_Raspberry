@@ -1,0 +1,14 @@
+{
+    "esp32_name": "ESP32",
+    "esp32_mac": "",
+
+    "smartphone_name": "nRF Connect",
+
+    "smartphone_service_uuid":
+    "12345678-1234-5678-1234-56789abcdef0",
+
+    "smartphone_char_uuid":
+    "abcdef01-1234-5678-1234-56789abcdef0",
+
+    "window_ms": 2000
+}
